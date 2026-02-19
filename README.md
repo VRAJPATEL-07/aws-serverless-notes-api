@@ -10,6 +10,8 @@ This project demonstrates modern cloud-native architecture with event-driven exe
 
 Client → API Gateway → Lambda → DynamoDB
 
+![alt text](image.png)
+
 - API Gateway handles HTTP requests
 - Lambda executes backend logic
 - DynamoDB stores note data
@@ -59,12 +61,6 @@ Client → API Gateway → Lambda → DynamoDB
 - Integrating API Gateway with Lambda
 - Managing NoSQL databases (DynamoDB)
 - IAM role configuration
-
----
-
-## 📷 Screenshots
-
-![alt text](image.png)
 
 ---
 
